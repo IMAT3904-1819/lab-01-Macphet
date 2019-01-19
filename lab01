@@ -1,0 +1,6 @@
+echo "# lab-01-Macphet" >> README.md
+git init
+git add README.md
+git commit - m "first commit"
+git remote add origin https ://github.com/IMAT3904-1819/lab-01-Macphet.git
+git push - u origin master
